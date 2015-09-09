@@ -3,4 +3,4 @@ Jinja2
 Werkzeug
 distribute
 wsgiref
-sdasdasdsadsa
+nose
